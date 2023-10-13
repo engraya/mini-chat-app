@@ -1,1 +1,11 @@
 \projectenv
+.idea/
+db.sqlite3
+#local_settings.py
+prod_settings.py
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.unotes
+/media/user_images/
